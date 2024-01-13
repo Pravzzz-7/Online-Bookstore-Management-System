@@ -1,9 +1,8 @@
 # <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
 - A Java Web Developement Project
-- **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
-- **Youtube VIDEO** for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
-- User Login Credentials: 
-- Admin Login Credentials: 
+
+- **Youtube VIDEO** tender management project: [https://www.youtube.com/watch?v=7CE3aY4e644](https://youtu.be/JVni_-X3mWU?si=-lHJi_XpdQ3VtHsI)
+
 <hr>
 
 ### About
