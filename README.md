@@ -2,10 +2,11 @@
 - A Java Web Developement Project
 - **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
 - **Youtube VIDEO** for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
-<!--Check out the Live website demo: 
+- User Login Credentials: 
+- Admin Login Credentials: 
 <hr>
 
-### <a><h1> About <h1></a>
+### About
 
 A user-friendly Online Bookstore project in which users can log in or register, view the available books, select books along with their quantity, and buy them. Users can also get payment receipts after successful payment. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
 
@@ -126,6 +127,7 @@ Step 8: The default Username And Password For User Is "shashi" And "shashi"
 <hr>
 
 Note:- Considering this as a Sample Project, we have not much considered of web security.
+
 #### Some Screenshots for the project:
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/34605595/224769637-37c34d4b-26e7-4d49-b990-4c09b260ec31.png">
 <img width="954" alt="image" src="https://user-images.githubusercontent.com/34605595/224769990-f440f74d-41b2-4629-ba1c-a87267f225d9.png">
@@ -133,5 +135,8 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png">
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png">
 
+
+#### "Suggestions and project improvement ideas are welcomed!"
+
 <bold>Thanks a lot</bold><br/>
-                                                                                                        
+                                                                                                      
