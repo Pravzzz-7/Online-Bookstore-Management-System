@@ -139,5 +139,6 @@ Step 8: The default Username And Password For User Is "shashi" And "shashi"
 
 #### "Suggestions and project improvement ideas are welcomed!"
 
-<bold>Thanks a lot</bold><br/>
-                                                                                                      
+#### "PROJECT BY: L PRAVEENA <3"
+
+<bold>Thanks a lot</bold><br/>                                                              
